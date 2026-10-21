@@ -1,0 +1,41 @@
+MAHESH'S ORACLE AI WORLD GUIDE - GITHUB PAGES
+
+This is the finalized static website copied without rebuilding or changing its runtime files.
+94 unique sessions; 97 scheduled offerings; 12-session recommended agenda.
+No npm install, build command, backend, environment variables, or external asset hosting is needed.
+
+UPLOAD
+1. Extract the ZIP.
+2. Open the mahesh-ai-world folder.
+3. Upload ALL files INSIDE that folder to the root of your separate GitHub repository:
+   index.html
+   agenda.css
+   catalog-ui.js
+   agenda-core.js
+   agenda.js
+   sessions.json
+   .nojekyll
+   DEPLOYMENT.txt (these instructions)
+   Include .nojekyll even if your file browser hides files starting with a dot.
+   Do not upload the enclosing mahesh-ai-world folder or the ZIP itself.
+4. Commit the uploaded files to main.
+5. Repository Settings > Pages > Deploy from a branch > main > /(root) > Save.
+   Use /(root), not /docs.
+6. Open the Pages URL shown by GitHub after deployment finishes.
+   Repository subpaths work through the site's existing relative asset paths.
+
+SAVED PLANS
+The website stores Mahesh's selections, notes and answers only in the current browser.
+Storage key: comcast-mahesh-ai-world-plan-v1
+Schema: comcast-mahesh-ai-world-plan, version 1.
+No other attendee's saved plans are imported or migrated.
+Before leaving http://127.0.0.1:8796/, use Export plan JSON.
+On the hosted site, use Import plan JSON to transfer that saved plan.
+localStorage does NOT automatically transfer to GitHub Pages or another browser.
+Review notes before sharing personal JSON exports; do not upload them to the repository.
+The public URL shows the baseline guide, not the visitor's personal saved plan.
+Reset to recommended requires confirmation and preserves notes and discovery answers.
+
+This package does not include private research, other persona websites, previous checkpoints,
+credentials, dependency folders, personal plan exports or browser-saved notes.
+Nothing has been uploaded or published automatically.
